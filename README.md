@@ -17,7 +17,3 @@ Follow these steps :
 8. Wait a minute for your instance to update
 9. Enjoy !
 
-
-This instance will be free for 90d, then you need to pay 7$/mo for the database.
-
-Created by Antoine Deschamps for La Machine. Inspired by ready4mars.
